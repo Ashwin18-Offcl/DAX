@@ -1,0 +1,11 @@
+﻿EVALUATE
+TOPN(
+	10,
+	SUMMARIZE(
+		Sales,
+		PRODUCT[ProductKey],
+		"Total Sales Amount", [Total Sales Amount (CM)]
+	),
+	[Total Sales Amount (CM)]
+)
+ORDER BY [Total Sales Amount (CM)] DESC

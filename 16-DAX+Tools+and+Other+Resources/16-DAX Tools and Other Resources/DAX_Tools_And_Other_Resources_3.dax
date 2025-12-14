@@ -1,0 +1,7 @@
+﻿/* START QUERY BUILDER */
+EVALUATE
+SUMMARIZECOLUMNS(
+    'Product'[Category],
+    "Total Sales Amount (CM)", [Total Sales Amount (CM)]
+)
+/* END QUERY BUILDER */

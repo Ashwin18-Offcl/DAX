@@ -1,0 +1,17 @@
+﻿EVALUATE
+
+FILTER(
+	GENERATE(
+		VALUES(PRODUCT[Subcategory]),
+		
+		TOPN(
+			3,
+			ADDCOLUMNS(
+				VALUES(Product[Product]),
+				"Sales Amount", [Total Sales Amount (CM)]
+				),
+				[Total Sales Amount (CM)]
+			)
+	),
+	[Total Sales Amount (CM)]> 0
+)

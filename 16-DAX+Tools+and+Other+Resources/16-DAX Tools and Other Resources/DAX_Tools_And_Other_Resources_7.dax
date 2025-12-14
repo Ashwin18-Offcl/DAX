@@ -1,0 +1,7 @@
+﻿EVALUATE
+CALCULATETABLE(
+	'Product',
+	PRODUCT[Color]="Black"
+	)
+	
+	

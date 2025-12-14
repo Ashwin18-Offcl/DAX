@@ -1,0 +1,12 @@
+﻿EVALUATE
+
+SUMMARIZECOLUMNS(
+		PRODUCT[ProductKey],
+		Sales[End of month (CC)],
+		
+	FILTER(
+		PRODUCT,
+		PRODUCT[Category]<>"Accessories"
+	),
+	"Total Sales", [Total Sales Amount (CM)]
+)
