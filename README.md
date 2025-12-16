@@ -134,21 +134,6 @@ It focuses on **logic, context, and insight generation**, enabling you to transf
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ashwin-panbude-27b824253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashwin_Panbude-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.kaggle.com/ashwinpanbude18" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Ashwin_Panbude-20BEFF?style=for-the-badge&logo=kaggle"/>
-  </a>
-</p>
-
----
-
-⭐ *If this repository helps you understand DAX better, consider starring it.*
-
 ```mermaid
 flowchart TB
     %% ============ THEME ============
@@ -203,3 +188,16 @@ flowchart TB
     H2 --> H3[Business Insights]:::output
 
 ```
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashwin-panbude-27b824253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwin_Panbude-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.kaggle.com/ashwinpanbude18" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Ashwin_Panbude-20BEFF?style=for-the-badge&logo=kaggle"/>
+  </a>
+</p>
+---
