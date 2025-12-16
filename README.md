@@ -1,3 +1,154 @@
+
+<!-- ===================== REPOSITORY METRICS ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Ashwin18-Offcl/DAX?style=for-the-badge&logo=github&color=FACC15"/>
+  <img src="https://img.shields.io/github/forks/Ashwin18-Offcl/DAX?style=for-the-badge&logo=github&color=22C55E"/>
+  <img src="https://img.shields.io/github/watchers/Ashwin18-Offcl/DAX?style=for-the-badge&logo=github&color=38BDF8"/>
+  <img src="https://img.shields.io/github/issues/Ashwin18-Offcl/DAX?style=for-the-badge&logo=github&color=FB7185"/>
+</p>
+
+---
+
+# 🧮 DAX Notes – Power BI Calculations & Business Intelligence  
+### *Measures • Context • KPIs • Insights*
+
+<p align="center">
+  <img src="UI%20DAX.webp" width="85%" />
+</p>
+
+---
+
+## 📌 Introduction
+This repository is a **complete DAX (Data Analysis Expressions) learning hub**, designed to explain **how calculations work inside Power BI**.  
+It focuses on **practical understanding**, **visual explanation**, and **business-ready calculations**, not just syntax.
+
+---
+
+## 🎯 Objective of This Repository
+- Understand **how DAX evaluates data**
+- Learn **measures, columns, and context clearly**
+- Build **dynamic KPIs and business metrics**
+- Develop **decision-ready Power BI dashboards**
+- Strengthen **analytical and BI thinking**
+
+---
+
+## 🖼️ Visual Learning Gallery (Organized)
+
+### 🔹 DAX & Power BI Environment
+<table>
+  <tr>
+    <td align="center">
+      <img src="Power%20bi.png" width="100%"/><br/>
+      <b>Power BI Interface</b>
+    </td>
+    <td align="center">
+      <img src="DAX%20Mode.png" width="100%"/><br/>
+      <b>DAX Calculation Mode</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔹 DAX Structure & Types
+<table>
+  <tr>
+    <td align="center">
+      <img src="Structure.png" width="100%"/><br/>
+      <b>DAX Structure</b>
+    </td>
+    <td align="center">
+      <img src="Types.png" width="100%"/><br/>
+      <b>Types of DAX</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔹 Syntax & Writing Style
+<table>
+  <tr>
+    <td align="center">
+      <img src="Syntax.png" width="100%"/><br/>
+      <b>DAX Syntax</b>
+    </td>
+    <td align="center">
+      <img src="Syntax%20Writting.png" width="100%"/><br/>
+      <b>Writing DAX Formulas</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔹 Conceptual Understanding
+<p align="center">
+  <img src="Dax%20Image.jpeg" width="70%"/><br/>
+  <b>DAX Concepts Overview</b>
+</p>
+
+---
+
+## 🔍 Analysis of DAX Notes
+These notes explain:
+- Difference between **Measures vs Calculated Columns**
+- How **Row Context and Filter Context** work
+- Why **CALCULATE** is the heart of DAX
+- How **Time Intelligence** enables trend analysis
+- How DAX interacts with **data models**
+
+---
+
+## 💡 Key Insights from the Notes
+- DAX is **context-driven**, not row-by-row like Excel
+- Measures are **dynamic**, recalculated per visual
+- Good DAX starts with **good data modeling**
+- Business KPIs require **logic, not just aggregation**
+
+---
+
+## 🌟 Benefits of These Notes
+- ✅ Clear, visual-based learning
+- ✅ Beginner to intermediate friendly
+- ✅ Strong foundation for **Power BI projects**
+- ✅ Ideal for **students, analysts, and educators**
+
+---
+
+## 🚀 Importance of Learning DAX
+DAX enables:
+- Dynamic dashboards
+- Accurate KPIs
+- Time-based analysis
+- Business-driven calculations
+
+Without DAX, Power BI dashboards remain **static and limited**.
+
+---
+
+## 🧠 Summary
+This DAX repository is designed to help you **think like a BI professional**.  
+It focuses on **logic, context, and insight generation**, enabling you to transform **raw data into meaningful business decisions**.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashwin-panbude-27b824253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwin_Panbude-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.kaggle.com/ashwinpanbude18" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Ashwin_Panbude-20BEFF?style=for-the-badge&logo=kaggle"/>
+  </a>
+</p>
+
+---
+
+⭐ *If this repository helps you understand DAX better, consider starring it.*
+
 ```mermaid
 flowchart TB
     %% ============ THEME ============
